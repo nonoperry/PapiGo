@@ -8,6 +8,7 @@
 8. Deploy contract
 9. Interact with contract
 
+The PapiGo contract can be found in the contracts folder. 
 
 
 
