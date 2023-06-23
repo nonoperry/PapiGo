@@ -178,7 +178,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"final.sol": "PapiGo"
+			"PapiGo_Contract.sol": "PapiGo"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -200,7 +200,7 @@
 				"dweb:/ipfs/QmPV3FGYjVwvKSgAXKUN3r9T9GwniZz83CxBpM7vyj2G53"
 			]
 		},
-		"final.sol": {
+		"PapiGo_Contract.sol": {
 			"keccak256": "0xc65c998c3e84ac8fbc37fcd516e69310eb519f8d08735228c42560c8bfedb942",
 			"license": "UNLICENSED",
 			"urls": [

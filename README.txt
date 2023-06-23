@@ -1,3 +1,16 @@
+1. Download Ganache and set up server - used to backtest smart contracts (in a real setting)
+2. Launch server
+3. Open Remix and create a new project
+4. Within the project, create a solidty file
+5. Write your contract within that file
+6. Import necessary libraries - OpenZeppelin to use tether 
+7. Compile contract 
+8. Deploy contract
+9. Interact with contract
+
+
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
